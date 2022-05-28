@@ -18,19 +18,19 @@ async def pmPermit(client: USER, message: Message):
                 return
             await USER.send_message(
                 message.chat.id,
-                f"ʜᴇʏ {message.from_user.mention()},\nᴛʜɪs ɪs [{bn}](t.me/{lel}) ʙᴏᴛ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ.\n\nᴅᴏɴ'ᴛ ᴛʀʏ ᴛᴏ sᴘᴀᴍ ʜᴇʀᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ꜰᴜ*ᴋᴇᴅ ʙʏ [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](t.me/{OWNER_USERNAME}).\n",
+                f"مرحبا {message.from_user.mention()},\nهذا هوه [{bn}](t.me/{lel}) حساب بوت مساعد.\n\nلا نحاول ان تبلغ هنا سوف تتعرض ل f*ck من [ANES](t.me/{OWNER_USERNAME}).\n",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🥱 ʙᴏᴛ 🥱", url=f"https://t.me/{lel}"
+                        "البوت", url=f"https://t.me/{lel}"
                     ),
                     InlineKeyboardButton(
-                        "💖 sᴜᴩᴩᴏʀᴛ 💖", url="https://github.com/AnonymousBoy1025/FallenMusic"
+                        "السورس", url="https://github.com/Anes010/Music-future-"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "💞 ᴏᴡɴᴇʀ​​ 💞", url=f"https://t.me/{OWNER_USERNAME}"
+                        "المطور", url=f"https://t.me/{OWNER_USERNAME}"
                     )]
             ]
         ),
@@ -39,7 +39,7 @@ async def pmPermit(client: USER, message: Message):
             return
 
 
-@Client.on_message(filters.command(["pm", "pmpermit"]))
+@Client.on_message(filters.command(["pm", "المساء"]))
 async def bye(client: Client, message: Message):
     if message.from_user.id in SUDO_USERS:
         global PMSET
