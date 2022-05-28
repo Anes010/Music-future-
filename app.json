@@ -1,54 +1,54 @@
 {
   "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "logo": "https://telegra.ph/file/30c291bae8a73cf534d4a.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
   "repository": "https://github.com/AnonymousR1025/FallenMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram String Session of assistant account",
+      "description": "كود سيشن بايرو",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Get this value from @BotFather on TG",
+      "description": "توكن بوتك @BotFather ",
       "required": true
     },
     "BOT_NAME": {
-      "description": "A name for your MusicPlayer Bot",
+      "description": "اسم بوتك",
       "required": false,
-      "value": ""
+      "value": "MUSIC"
     },
     "BOT_USERNAME": {
-      "description": "Username of your bot without @",
+      "description": "يوزر بوتك بدون @",
       "required": false,
-      "value": ""
+      "value": "Musicanes1_bot"
     },
     "API_ID": {
-      "description": "Get this value from my.telegram.org/apps",
+      "description": "يمكن الحصول عليه من هنا.telegram.org/apps",
       "required": false
     },
     "API_HASH": {
-      "description": "Get this value from from my.telegram.org/apps",
+      "description": "يمكنك الحصول عليه من هنا.telegram.org/apps",
       "required": false
     },
     "OWNER_USERNAME": {
-      "description": "Username of the person who will known as owner of the bot, without @",
+      "description": "يوزر مطور البوت بدون@",
       "required": false,
-      "value": "anonymous_was_bot"
+      "value": "N_B_1"
     },
     "SUPPORT_GROUP": {
-      "description": "Username of the group where users will go and disturb you, without @",
+      "description": "كروب الابلاغ@",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": "N_B_10"
     },
     "SUDO_USERS": {
-      "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
+      "description": "ايدي مطور البوت.",
       "required": true,
-      "value": "1356469075"
+      "value": "5341342370 2043717481"
     },
     "START_IMG": {
-      "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
+      "description": "صوره البوت عند ضغط start",
       "required": false
     },
     "PING_IMG": {
@@ -61,7 +61,7 @@
       "value": "ENABLE"
     },
     "DURATION_LIMIT": {
-      "description": "Max audio duration limit for downloads (minutes).",
+      "description": "حد اقصى لعدد(الدقائق).",
       "required": false,
       "value": "90"
     }
