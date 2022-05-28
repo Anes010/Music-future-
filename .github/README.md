@@ -1,20 +1,20 @@
 <p align="center">
     <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
+<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/30c291bae8a73cf534d4a.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/license/AnonymousR1025/FallenMusic?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/commit-activity/w/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <img src="https://img.shields.io/github/contributors/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Contributors">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/stars/Anes010/Music-future-?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Anes010/Music-future-?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/Anes010/Music-future-?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/Anes010/Music-future-?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/Anes010/Music-future-?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/Anes010/Music-future-/commits/Anes010"> <img src="https://img.shields.io/github/last-commit/Anes010/music-future-?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/Anes010/Music-future-?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/Anes010/Music-future-/issues"> <img src="https://img.shields.io/github/issues/Anes010/music-future-?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Anes010/Music-future-"> <img src="https://img.shields.io/github/repo-size/Anes/Music-future-?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -55,16 +55,16 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ### 🧪 Get `SESSION_NAME` variable:
 
-[``Pyrogram Session``](https://telegram.me/StringFatherBot)
+[``Pyrogram Session``](https://telegram.me/)
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Anes010/Music-future-"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Anes010/Music-future-"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -76,7 +76,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/AnonymousR1025/FallenMusic # Clone your repo.
+git clone  https://github.com/Anes010/Music-future- # Clone your repo.
 cd FallenMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
@@ -85,14 +85,14 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
-- [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
+- [ANES](https://github.com/Anes010): Developer
+- [Fallen Music Bot](https://telegram.me/Musicanes1_bot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/N_B_1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/N_B_10"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
